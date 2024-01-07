@@ -1,6 +1,6 @@
 class Lssh < Formula
     desc "SSH Connection Manager"
-    homepage "URL_DE_VOTRE_REPO_GITHUB"
+    homepage "https://github.com/JamesStandbridge/homebrew-lssh"
     url "URL_DE_VOTRE_SCRIPT"
     sha256 "SHA256_DE_VOTRE_SCRIPT"
   
