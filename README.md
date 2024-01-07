@@ -1,4 +1,4 @@
-# SSH Connection Manager
+# LSSH : SSH Connection Manager
 
 ## Introduction
 
