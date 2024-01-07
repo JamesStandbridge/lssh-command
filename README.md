@@ -18,8 +18,8 @@ Before you begin, ensure you have met the following requirements:
 - `sshpass` is installed if you plan to use password-based authentication (not recommended for security reasons).
 
 ```bash
-$ pip install inquirer
-$ brew install hudochenkov/sshpass/sshpass
+pip install inquirer
+brew install hudochenkov/sshpass/sshpass
 ```
 
 ## Installation
